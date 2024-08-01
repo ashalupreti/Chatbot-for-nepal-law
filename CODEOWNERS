@@ -1,0 +1,6 @@
+# Code owners for the entire repository
+* @ashalupreti
+
+# Code owners for specific directories or files
+/docs/ @anitshahi
+/src/ @collaborator-username
